@@ -1,0 +1,7 @@
+{
+  "name": "Remix: NB Studio - Mission Control",
+  "description": "Unified dashboard for AI operations, agent tracking, and cost analytics with Gemini intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
